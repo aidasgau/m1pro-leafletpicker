@@ -2,7 +2,7 @@
 
 Leaflet Robot project uses a robotic hand to pick up a leaflet from fixated slots on a surface and dropping them in a fixed slot position. Purpose of the project is to attract new students to the university.
 
-This project consists of 3 parts:
+This project consists of 4 parts:
 
 1. [Graphical user interface implemented in Raspberry PI.](https://github.com/np425/pi-dobot-gui)
 2. [Candy physical movement implemented with Dobot robotic hand.](https://github.com/aidasgau/dobotmg400-candypicker)
