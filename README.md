@@ -6,7 +6,7 @@ This project consists of 3 parts:
 
 1. [Graphical user interface implemented in Raspberry PI.](https://github.com/np425/pi-dobot-gui)
 2. [Candy physical movement implemented with Dobot robotic hand.](https://github.com/aidasgau/dobotmg400-candypicker)
-3. [Leaflet physical movement implemented with Dobot robotic hand.](https://github.com/aidasgau/m1pro-leafletpicker).
+3. [Leaflet physical movement implemented with Dobot robotic hand.](https://github.com/aidasgau/m1pro-leafletpicker)
 4. Electrical wiring connecting both components and providing communication.
 
 This github repository covers the third part of this project.
